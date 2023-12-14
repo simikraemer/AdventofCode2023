@@ -83,8 +83,8 @@ for _ in range(zyklen):
     #print(_,gewicht)
 print(" - Abgeschlossen")
 
-# hier habe ich einen loop erkannt und gelöst mit x + 51 * y = 1000000000
-# 108 + 51 * 93742 = 1000000000
+# hier habe ich einen loop erkannt und gelöst mit (x + 1) + (51 * y) = 1000000000
+# (108 + 1) + (51 * 19607841) = 1000000000
 # gewicht für idx 108 -> 93742
 
 fiji2 = 93742 # lmaoitjustwerks
